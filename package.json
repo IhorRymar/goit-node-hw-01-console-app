@@ -1,0 +1,24 @@
+{
+  "name": "goit-node-hw-01-console-app",
+  "version": "1.0.0",
+  "description": "goit-node-hw-01-console-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorRymar/goit-node-hw-01-console-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/IhorRymar/goit-node-hw-01-console-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
